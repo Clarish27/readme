@@ -1,1 +1,3 @@
-# readme
+clarish aquino
+BSIT
+midproject
